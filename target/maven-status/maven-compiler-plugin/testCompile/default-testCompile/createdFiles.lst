@@ -1,0 +1,4 @@
+com/user/UserControllerTest.class
+com/user/info/UserContactInfoControllerTest.class
+com/user/util/UserContactInfoUtil.class
+com/user/service/UserContactInfoServiceTest.class
